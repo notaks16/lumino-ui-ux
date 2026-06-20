@@ -1,0 +1,29 @@
+ACCESSIBILITY NOTES
+
+Color Contrast
+
+• Maintain minimum contrast ratio of 4.5:1.
+
+Typography
+
+• Minimum body text size should be 16px.
+
+Touch Targets
+
+• Buttons should have a minimum size of 44 × 44 px.
+
+Keyboard Navigation
+
+• All interactive elements should be keyboard accessible.
+
+Forms
+
+• Inputs must contain labels and error messages.
+
+Alt Text
+
+• Images and icons should include descriptive labels.
+
+Consistency
+
+• Avoid using color alone to communicate information.
