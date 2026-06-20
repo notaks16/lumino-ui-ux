@@ -1,0 +1,37 @@
+INTERACTION SPECIFICATIONS
+
+Buttons
+
+Hover State
+• Increase shadow.
+
+Pressed State
+• Reduce opacity to 90%.
+
+Disabled State
+• Gray background with reduced opacity.
+
+Input Fields
+
+Focus State
+• Purple border (#7C6CF3).
+
+Error State
+• Red border (#EF4444).
+
+Cards
+
+Hover State
+• Elevation increases.
+
+Transitions
+
+Duration
+• 200ms–300ms
+
+Animation
+• Ease In-Out
+
+Progress Bars
+
+• Animate smoothly when values change.
