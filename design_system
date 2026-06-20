@@ -1,0 +1,48 @@
+DESIGN SYSTEM DOCUMENTATION
+
+Overview
+
+The EdTech application follows a clean and modern design system to ensure consistency across all screens. The interface uses periwinkle blue accents with blue stroke backgrounds to create an engaging and student-friendly experience.
+
+Color Palette
+
+Primary Color
+• #6E85AE
+
+Secondary Color
+• #EDEBFF
+
+Background Color
+• Plugin
+
+Text Colors
+• Primary: #1F1F1F
+• Secondary: #6B7280
+
+Typography
+
+Heading 1
+• 32px Bold
+
+Heading 2
+• 24px Semi-Bold
+
+Body Text
+• 16px Regular
+
+Caption
+• 14px Medium
+
+Border Radius
+
+Buttons: 12px
+Cards: 16px
+Inputs: 10px
+
+Spacing
+
+XS: 4px
+S: 8px
+M: 16px
+L: 24px
+XL: 32px
