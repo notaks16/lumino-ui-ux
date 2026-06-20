@@ -1,0 +1,35 @@
+COMPONENT USAGE GUIDELINES
+
+Buttons
+
+Primary Button
+• Used for main actions like Continue Learning and Start Quiz.
+
+Secondary Button
+• Used for Cancel and Back actions.
+
+Course Cards
+
+• Display course image, title, rating, and progress.
+• Used in Home and Explore screens.
+
+Input Fields
+
+• Used for Login and Sign Up forms.
+• Include labels and placeholders.
+
+Progress Cards
+
+• Display learning statistics and achievements.
+
+Navigation Bar
+
+• Home
+• Explore
+• Progress
+• Profile
+
+Icons
+
+• Maintain 24px size.
+• Use outlined style throughout the application.
