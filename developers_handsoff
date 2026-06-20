@@ -1,0 +1,63 @@
+DEVELOPER HANDOFF GUIDE
+
+Grid System
+
+Desktop
+• 12 Columns
+
+Mobile
+• 4 Columns
+
+Spacing Tokens
+
+spacing-xs = 4px
+spacing-sm = 8px
+spacing-md = 16px
+spacing-lg = 24px
+spacing-xl = 32px
+
+Color Tokens
+
+primary-500 = #7C6CF3
+primary-100 = #EDEBFF
+
+neutral-900 = #1F1F1F
+neutral-600 = #6B7280
+
+success-500 = #22C55E
+warning-500 = #F59E0B
+error-500 = #EF4444
+
+Typography Tokens
+
+font-h1 = 32px Bold
+font-h2 = 24px Semi-Bold
+font-body = 16px Regular
+font-caption = 14px Medium
+
+Assets
+
+Icons
+• SVG
+
+Illustrations
+• SVG and PNG
+
+Images
+• WebP preferred
+
+Naming Convention
+
+button-primary
+button-secondary
+course-card
+progress-card
+navbar-mobile
+icon-home
+icon-profile
+
+Responsive Breakpoints
+
+Mobile: 0–768px
+Tablet: 768–1024px
+Desktop: 1024px and above
